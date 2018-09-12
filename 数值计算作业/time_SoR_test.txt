@@ -1,0 +1,15 @@
+SoR iteration:
+SoR_gauss_siedel convergence with w = 1 count:195
+w = 1: 0.17009353637695312
+-------------------------
+SoR iteration:
+SoR_gauss_siedel convergence with w = 1.1 count:155
+w = 1.1: 0.13244342803955078
+-------------------------
+SoR iteration:
+SoR_gauss_siedel convergence with w = 0.5 count:479
+w = 0.5: 0.3786745071411133
+-------------------------
+gauss_siedel iteration :
+gauss_siedel convergence : 195
+gauss_siedel: 0.15692400932312012

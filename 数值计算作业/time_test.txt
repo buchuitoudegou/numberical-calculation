@@ -1,0 +1,104 @@
+n=10
+jacobi iteration :
+jacobi convergence: 34
+jacobi time: 0.0
+-------------------------
+gauss_siedel iteration :
+gauss_siedel convergence : 19
+gauss_siedel time: 0.0
+-------------------------
+SoR iteration:
+SoR_gauss_siedel convergence with w = 1.1 count:14
+SoR time: 0.015630245208740234
+-------------------------
+conjugate_gradient iteration:
+conjugate_gradient convergence: 9
+conjugate time: 0.0
+-------------------------
+gauss time: 0.0
+-------------------------
+gauss2 time: 0.0
+
+n=50
+jacobi iteration :
+jacobi convergence: 176
+jacobi time: 0.015631437301635742
+-------------------------
+gauss_siedel iteration :
+gauss_siedel convergence : 89
+gauss_siedel time: 0.07534527778625488
+-------------------------
+SoR iteration:
+SoR_gauss_siedel convergence with w = 1.1 count:71
+SoR time: 0.047452449798583984
+-------------------------
+conjugate_gradient iteration:
+conjugate_gradient convergence: 30
+conjugate time: 0.015640974044799805
+-------------------------
+gauss time: 0.07815361022949219
+-------------------------
+gauss2 time: 0.07439517974853516
+
+n=100
+jacobi iteration :
+jacobi convergence: 335
+jacobi time: 0.10940694808959961
+-------------------------
+gauss_siedel iteration :
+gauss_siedel convergence : 183
+gauss_siedel time: 1.142120599746704
+-------------------------
+SoR iteration:
+SoR_gauss_siedel convergence with w = 1.1 count:151
+SoR time: 0.3421316146850586
+-------------------------
+conjugate_gradient iteration:
+conjugate_gradient convergence: 37
+conjugate time: 0.026874542236328125
+-------------------------
+gauss time: 0.5314581394195557
+-------------------------
+gauss2 time: 0.5472836494445801
+
+n=150
+jacobi iteration :
+jacobi convergence: 429
+jacobi time: 0.12505006790161133
+-------------------------
+gauss_siedel iteration :
+gauss_siedel convergence : 230
+gauss_siedel time: 1.2827227115631104
+-------------------------
+SoR iteration:
+SoR_gauss_siedel convergence with w = 1.1 count:187
+SoR time: 0.8039429187774658
+-------------------------
+conjugate_gradient iteration:
+conjugate_gradient convergence: 42
+conjugate time: 0.06252741813659668
+-------------------------
+gauss time: 1.759505271911621
+-------------------------
+gauss2 time: 1.7984991073608398
+
+n=200
+jacobi iteration :
+jacobi convergence: 481
+jacobi time: 0.1821136474609375
+-------------------------
+gauss_siedel iteration :
+gauss_siedel convergence : 247
+gauss_siedel time: 1.4903826713562012
+-------------------------
+SoR iteration:
+SoR_gauss_siedel convergence with w = 1.1 count:223
+SoR time: 1.326357364654541
+-------------------------
+conjugate_gradient iteration:
+conjugate_gradient convergence: 55
+conjugate time: 0.10910391807556152
+-------------------------
+gauss time: 4.156708002090454
+-------------------------
+gauss2 time: 4.206740140914917
